@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beacon Detector</string>
+    <string name="unknown_beacon">Unknown Beacon</string>
+</resources>
